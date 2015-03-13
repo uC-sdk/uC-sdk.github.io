@@ -1,0 +1,1 @@
+This is the github repository for the [uC-sdk](http://www.uC-sdk.net/) library. This is probably not what you're looking for. Please go to [the actual uC-sdk repository](http://github.com/grumpycoders/uC-sdk).
